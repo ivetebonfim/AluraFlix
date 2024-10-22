@@ -3,7 +3,7 @@ body{
   color:white; 
 }
 section{
-  background-color: purple;
+  background-color: rgb(121, 8, 121);
   padding-top: 80 px;
   padding-bottom: 80 px;
   display: flex ;
