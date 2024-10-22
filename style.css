@@ -6,9 +6,9 @@ section{
   background-color: rgb(121, 8, 121);
   padding-top: 80px;
   padding-bottom: 80px;
-  display: flex ;
+  display: flex;
   justify-content: center;
 }
 .chamada -texto{
-   margin-right: 20px;
+   margin-right: 5%;
 }
