@@ -4,11 +4,11 @@ body{
 }
 section{
   background-color: rgb(121, 8, 121);
-  padding-top: 80 px;
-  padding-bottom: 80 px;
+  padding-top: 80px;
+  padding-bottom: 80px;
   display: flex ;
   justify-content: center;
 }
-div{
-   margin-right: 20 px ;
+.chamada -texto{
+   margin-right: 20px;
 }
