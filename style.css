@@ -6,4 +6,6 @@ section{
   background-color: purple;
   padding-top: 80 px;
   padding-bottom: 80 px;
+  display: flex ;
+  justify-content:center ;
 }
