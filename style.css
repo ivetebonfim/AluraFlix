@@ -17,4 +17,5 @@ img{
 }
 .categoria_vídeo{
   display: flex;
+  overflow: auto;
 }
