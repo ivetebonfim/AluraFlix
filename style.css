@@ -2,6 +2,7 @@ body{
   background-color: black;
   color: white;
   font-family:  "Doto",serif;
+  font-weight: bold;
 }
 .chamada{
   background-color: rgb(109, 1, 109);
